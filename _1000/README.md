@@ -2,15 +2,15 @@
 
 ## Question
 
-Add two numbers which A and B, then prints the result.
+Add two numbers which A and B, then print the result.
 
 ## Input
 
-Given A and B in the first line. (0 < A, B < 10)
+Given two numbers which A and B in the first line. (0 < A, B < 10)
 
 ## Output
 
-Prints A+B in the first line.
+Print A+B in the first line.
 
 ## Result
 
