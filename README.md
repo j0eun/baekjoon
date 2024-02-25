@@ -1,4 +1,4 @@
-# Baekjoon solutions
+# Baekjoon Solutions
 
 Baekjoon solutions which written in Rust(somethimes others).
 
