@@ -6,7 +6,7 @@ In Thailand, they use a bit different calendar which based on buddhism. The cale
 
 ## Input
 
-Given a number which is a Buddhist year. $(1000 <= y <= 3000)$
+Given a number which is a Buddhist year. $(1000 \le y \le 3000)$
 
 ## Output
 
